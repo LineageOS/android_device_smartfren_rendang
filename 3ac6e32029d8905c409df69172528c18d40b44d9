@@ -2,6 +2,23 @@
   "comments": [
     {
       "key": {
+        "uuid": "9ff52f3f_d47f7aa9",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 183,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-01T08:38:09Z",
+      "side": 1,
+      "message": "Alphabetize by category, then flag within the category. You can probably put this under RIL as well.",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9ff52f3f_f4d6fec3",
         "filename": "proprietary-files-qc.txt",
         "patchSetId": 1
@@ -37,6 +54,23 @@
     },
     {
       "key": {
+        "uuid": "9ff52f3f_b47cf6b5",
+        "filename": "proprietary-files-qc.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-01T08:38:09Z",
+      "side": 1,
+      "message": "jars and APKs probably need to have real targets, dexopted builds will fail with this.",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9ff52f3f_d4e3faa3",
         "filename": "rootdir/etc/init.qcom.rc",
         "patchSetId": 1
@@ -48,6 +82,40 @@
       "writtenOn": "2015-07-01T06:17:24Z",
       "side": 1,
       "message": "this looks weird... from QRD?",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ff52f3f_944b3286",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 88,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-01T08:38:09Z",
+      "side": 1,
+      "message": "Alphabetize, categorize.",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "9ff52f3f_7450ae33",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-01T08:38:09Z",
+      "side": 1,
+      "message": "Don\u0027t add commented out items if not needed.",
       "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
