@@ -88,6 +88,24 @@
     },
     {
       "key": {
+        "uuid": "9ff52f3f_145f2242",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 32
+      },
+      "writtenOn": "2015-07-01T10:29:34Z",
+      "side": 1,
+      "message": "The init.cne.rc (currently absent) should actually have this line.",
+      "parentUuid": "9ff52f3f_d4e3faa3",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9ff52f3f_944b3286",
         "filename": "system.prop",
         "patchSetId": 1
