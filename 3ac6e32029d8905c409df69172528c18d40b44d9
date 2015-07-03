@@ -19,6 +19,24 @@
     },
     {
       "key": {
+        "uuid": "7ffa3b31_a73168ef",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 183,
+      "author": {
+        "id": 13513
+      },
+      "writtenOn": "2015-07-03T04:36:45Z",
+      "side": 1,
+      "message": "Will alphabetize, this is not related to RIL.",
+      "parentUuid": "9ff52f3f_d47f7aa9",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9ff52f3f_f4d6fec3",
         "filename": "proprietary-files-qc.txt",
         "patchSetId": 1
@@ -71,6 +89,24 @@
     },
     {
       "key": {
+        "uuid": "7ffa3b31_6751200f",
+        "filename": "proprietary-files-qc.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 13513
+      },
+      "writtenOn": "2015-07-03T04:36:45Z",
+      "side": 1,
+      "message": "Can u explain what u mean by having real targets?",
+      "parentUuid": "9ff52f3f_b47cf6b5",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9ff52f3f_d4e3faa3",
         "filename": "rootdir/etc/init.qcom.rc",
         "patchSetId": 1
@@ -106,6 +142,24 @@
     },
     {
       "key": {
+        "uuid": "7ffa3b31_c7491461",
+        "filename": "rootdir/etc/init.qcom.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 74,
+      "author": {
+        "id": 13513
+      },
+      "writtenOn": "2015-07-03T04:36:45Z",
+      "side": 1,
+      "message": "Yeah, missed this was gona remove this and include init.cne.rc.",
+      "parentUuid": "9ff52f3f_145f2242",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9ff52f3f_944b3286",
         "filename": "system.prop",
         "patchSetId": 1
@@ -134,6 +188,24 @@
       "writtenOn": "2015-07-01T08:38:09Z",
       "side": 1,
       "message": "Don\u0027t add commented out items if not needed.",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7ffa3b31_a746084f",
+        "filename": "system.prop",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 13513
+      },
+      "writtenOn": "2015-07-03T04:36:45Z",
+      "side": 1,
+      "message": "This property is not documented well and is touch to figure out, took a long time to figure out we needed this property to get the proper logs show up in ADB. I would recommend to keep this comment. If others share the opinion to remove this line then I will go ahead and remove it.",
+      "parentUuid": "9ff52f3f_7450ae33",
       "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
