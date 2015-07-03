@@ -107,6 +107,24 @@
     },
     {
       "key": {
+        "uuid": "7ffa3b31_47a4e408",
+        "filename": "proprietary-files-qc.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 217,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-03T04:52:39Z",
+      "side": 1,
+      "message": "See: \n\nhttps://github.com/TheMuppets/proprietary_vendor_yu/blob/cm-11.0/tomato/Android.mk#L22\n\nhttps://github.com/CyanogenMod/android_device_yu_tomato/blob/cm-11.0/proprietary-files-qc.txt#L84\n\nhttps://github.com/CyanogenMod/android_device_yu_tomato/blob/cm-11.0/setup-makefiles.sh#L164",
+      "parentUuid": "7ffa3b31_6751200f",
+      "revId": "3ac6e32029d8905c409df69172528c18d40b44d9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "9ff52f3f_d4e3faa3",
         "filename": "rootdir/etc/init.qcom.rc",
         "patchSetId": 1
