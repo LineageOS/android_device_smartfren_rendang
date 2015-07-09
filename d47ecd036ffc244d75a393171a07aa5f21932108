@@ -1,0 +1,140 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5ff73747_d176743f",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T03:46:58Z",
+      "side": 1,
+      "message": "Space this stuff out.",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_b173e84d",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T03:46:58Z",
+      "side": 1,
+      "message": "Ugh. Is there an overriding reason to set this differently than msm8916-common?",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_117dfc1b",
+        "filename": "device.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T03:46:58Z",
+      "side": 1,
+      "message": "Don\u0027t do this.",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_f179702f",
+        "filename": "device.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T03:46:58Z",
+      "side": 1,
+      "message": "Trailing \\\n\nThis might be causing you a lot of subtle problems.",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_f19e1053",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T03:46:58Z",
+      "side": 1,
+      "message": "This is probably duplicated in msm8916-common\u0027s init.qcom.rc, if not, it should go there.",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_918eac25",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T03:46:58Z",
+      "side": 1,
+      "message": "Isn\u0027t this take care of in msm8916-common? If not, we should make it so with a common init.qcom.power.rc or so. This stuff is going to be shared across all 8916s.",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_71932051",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T03:46:58Z",
+      "side": 1,
+      "message": "This is probably nasty for encryption. Also, this is always going to be dsds, so why not just force enable ril-daemon1?",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "5ff73747_319d9859",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-09T03:46:58Z",
+      "side": 1,
+      "message": "Same as above, this should go to msm8916-common.",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
