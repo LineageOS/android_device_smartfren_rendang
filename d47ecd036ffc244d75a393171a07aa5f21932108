@@ -36,6 +36,24 @@
     },
     {
       "key": {
+        "uuid": "1f013ff3_7e89ad24",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 67,
+      "author": {
+        "id": 11501
+      },
+      "writtenOn": "2015-07-11T03:02:02Z",
+      "side": 1,
+      "message": "removed, since no crash is seen in DialerNext",
+      "parentUuid": "5ff73747_b173e84d",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5ff73747_117dfc1b",
         "filename": "device.mk",
         "patchSetId": 5
@@ -47,6 +65,24 @@
       "writtenOn": "2015-07-09T03:46:58Z",
       "side": 1,
       "message": "Don\u0027t do this.",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f013ff3_5e8ef12e",
+        "filename": "device.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 11501
+      },
+      "writtenOn": "2015-07-11T03:02:02Z",
+      "side": 1,
+      "message": "accidentally committed a local change, removed",
+      "parentUuid": "5ff73747_117dfc1b",
       "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -70,6 +106,24 @@
     },
     {
       "key": {
+        "uuid": "1f013ff3_3e832507",
+        "filename": "device.mk",
+        "patchSetId": 5
+      },
+      "lineNbr": 96,
+      "author": {
+        "id": 11501
+      },
+      "writtenOn": "2015-07-11T03:02:02Z",
+      "side": 1,
+      "message": "removed trailing backslash",
+      "parentUuid": "5ff73747_f179702f",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5ff73747_f19e1053",
         "filename": "rootdir/etc/init.target.rc",
         "patchSetId": 5
@@ -81,6 +135,24 @@
       "writtenOn": "2015-07-09T03:46:58Z",
       "side": 1,
       "message": "This is probably duplicated in msm8916-common\u0027s init.qcom.rc, if not, it should go there.",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f013ff3_9e73594e",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 11501
+      },
+      "writtenOn": "2015-07-11T03:02:02Z",
+      "side": 1,
+      "message": "removed",
+      "parentUuid": "5ff73747_f19e1053",
       "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
@@ -104,6 +176,24 @@
     },
     {
       "key": {
+        "uuid": "1f013ff3_7e8e4d28",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 58,
+      "author": {
+        "id": 11501
+      },
+      "writtenOn": "2015-07-11T03:02:02Z",
+      "side": 1,
+      "message": "removed",
+      "parentUuid": "5ff73747_918eac25",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5ff73747_71932051",
         "filename": "rootdir/etc/init.target.rc",
         "patchSetId": 5
@@ -121,6 +211,24 @@
     },
     {
       "key": {
+        "uuid": "1f013ff3_fe7c9d21",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 92,
+      "author": {
+        "id": 11501
+      },
+      "writtenOn": "2015-07-11T03:02:02Z",
+      "side": 1,
+      "message": "removed both as ril-daemon1 service is not \"disabled\"",
+      "parentUuid": "5ff73747_71932051",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "5ff73747_319d9859",
         "filename": "rootdir/etc/init.target.rc",
         "patchSetId": 5
@@ -132,6 +240,24 @@
       "writtenOn": "2015-07-09T03:46:58Z",
       "side": 1,
       "message": "Same as above, this should go to msm8916-common.",
+      "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f013ff3_de79e12f",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 5
+      },
+      "lineNbr": 116,
+      "author": {
+        "id": 11501
+      },
+      "writtenOn": "2015-07-11T03:02:02Z",
+      "side": 1,
+      "message": "removed duplicated lines",
+      "parentUuid": "5ff73747_319d9859",
       "revId": "d47ecd036ffc244d75a393171a07aa5f21932108",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
