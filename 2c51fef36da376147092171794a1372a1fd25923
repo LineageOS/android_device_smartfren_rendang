@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "df140735_2ebc1b68",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-24T06:38:29Z",
+      "side": 1,
+      "message": "wow, rendang has a compass?",
+      "revId": "2c51fef36da376147092171794a1372a1fd25923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "df140735_4eb74f88",
+        "filename": "device.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 94,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-07-24T06:38:29Z",
+      "side": 1,
+      "message": "sensor comes after recovery.",
+      "revId": "2c51fef36da376147092171794a1372a1fd25923",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
