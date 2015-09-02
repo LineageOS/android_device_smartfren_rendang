@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3f1d235d_e0f9804d",
+        "filename": "/COMMIT_MSG",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 2936
+      },
+      "writtenOn": "2015-09-02T23:54:37Z",
+      "side": 1,
+      "message": "Newline after topic, otherwise git formats it really funny",
+      "revId": "1e27577c9281ac78d023504334e6bc7f3dbaf9c9",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
