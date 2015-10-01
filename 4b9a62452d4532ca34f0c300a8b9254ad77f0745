@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "9f436f4f_f826e516",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 5728
+      },
+      "writtenOn": "2015-10-01T10:06:06Z",
+      "side": 1,
+      "message": "I\u0027m afraid this per-process reclaim not get executed in normal boot but on charger only.",
+      "revId": "4b9a62452d4532ca34f0c300a8b9254ad77f0745",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
