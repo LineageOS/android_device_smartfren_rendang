@@ -16,6 +16,24 @@
       "revId": "4b9a62452d4532ca34f0c300a8b9254ad77f0745",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_541824d2",
+        "filename": "rootdir/etc/init.target.rc",
+        "patchSetId": 1
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-10-06T06:45:05Z",
+      "side": 1,
+      "message": "Good catch.",
+      "parentUuid": "9f436f4f_f826e516",
+      "revId": "4b9a62452d4532ca34f0c300a8b9254ad77f0745",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
