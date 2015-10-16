@@ -25,6 +25,30 @@
     },
     {
       "key": {
+        "uuid": "7f287b81_2c608ba5",
+        "filename": "configs/ims/ims.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 3,
+      "author": {
+        "id": 13513
+      },
+      "writtenOn": "2015-10-16T23:40:27Z",
+      "side": 1,
+      "message": "Hi ed these files are as it is from Qualcomm drop. I do not prefer changing Qualcomm files untill and unless there is a functional reason to do so.",
+      "parentUuid": "7f287b81_3b7d67b1",
+      "range": {
+        "startLine": 3,
+        "startChar": 16,
+        "endLine": 3,
+        "endChar": 19
+      },
+      "revId": "275d503ab363dc74484f683f7dcc16155cb57741",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "7f287b81_1b4ceb9c",
         "filename": "configs/ims/imscm.xml",
         "patchSetId": 1
@@ -36,6 +60,24 @@
       "writtenOn": "2015-10-16T00:20:55Z",
       "side": 1,
       "message": "indentation",
+      "revId": "275d503ab363dc74484f683f7dcc16155cb57741",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7f287b81_ec5963fe",
+        "filename": "configs/ims/imscm.xml",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 13513
+      },
+      "writtenOn": "2015-10-16T23:40:27Z",
+      "side": 1,
+      "message": "Hi ed these files are as it is from Qualcomm drop. I do not prefer changing Qualcomm files untill and unless there is a functional reason to do so.",
+      "parentUuid": "7f287b81_1b4ceb9c",
       "revId": "275d503ab363dc74484f683f7dcc16155cb57741",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
