@@ -16,6 +16,24 @@
       "revId": "b9146e8575a62c24176818523e0b2c3c1a456dbc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f2f7f8d_d0f98c80",
+        "filename": "camera/QCamera2/HAL/QCamera2HWI.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 3568,
+      "author": {
+        "id": 14096
+      },
+      "writtenOn": "2015-11-14T05:57:44Z",
+      "side": 1,
+      "message": "I borrowed this from crackling(arcee made these changes). The longshot, histogram, snapshot etc features seems to be removed for cm-13.0. I think this might be temporary. Will have to study this in detail though.",
+      "parentUuid": "1f2f7f8d_b0cde05e",
+      "revId": "b9146e8575a62c24176818523e0b2c3c1a456dbc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
