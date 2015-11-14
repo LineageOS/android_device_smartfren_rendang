@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1f2f7f8d_b0cde05e",
+        "filename": "camera/QCamera2/HAL/QCamera2HWI.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 3568,
+      "author": {
+        "id": 13798
+      },
+      "writtenOn": "2015-11-14T05:50:13Z",
+      "side": 1,
+      "message": "What is this for exactly? There\u0027s a bunch of parameters for these two things two that look not removed.",
+      "revId": "b9146e8575a62c24176818523e0b2c3c1a456dbc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
