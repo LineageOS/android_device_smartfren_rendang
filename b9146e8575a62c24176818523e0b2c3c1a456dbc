@@ -34,6 +34,24 @@
       "revId": "b9146e8575a62c24176818523e0b2c3c1a456dbc",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1f2f7f8d_502b5cea",
+        "filename": "camera/QCamera2/HAL/QCamera2HWI.cpp",
+        "patchSetId": 2
+      },
+      "lineNbr": 3568,
+      "author": {
+        "id": 13798
+      },
+      "writtenOn": "2015-11-14T06:02:35Z",
+      "side": 1,
+      "message": "That\u0027s fine, nobody will miss these. But they were removed where when and by whom exactly? CM removed these changes? CAF removed them? And removed how and where?\n\nI only ask because there\u0027s a lot more code for these in a lot more places normally that isn\u0027t removed with this.",
+      "parentUuid": "1f2f7f8d_d0f98c80",
+      "revId": "b9146e8575a62c24176818523e0b2c3c1a456dbc",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
     }
   ]
 }
