@@ -1,0 +1,123 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "bf8cb3f7_c65016d8",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 110,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-12-01T07:21:41Z",
+      "side": 1,
+      "message": "Not sure about this bitrate, never heard of 156kbit for audio.",
+      "revId": "b36fbd315e9b07dd8aafffbf65ee5d61052e5b0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf8cb3f7_665fcae5",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 162,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-12-01T07:21:41Z",
+      "side": 1,
+      "message": "Not sure about this bitrate, never heard of 156kbit for audio.",
+      "revId": "b36fbd315e9b07dd8aafffbf65ee5d61052e5b0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf8cb3f7_86644ebb",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 203,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-12-01T07:21:41Z",
+      "side": 1,
+      "message": "Not sure about this bitrate, never heard of 156kbit for audio.",
+      "revId": "b36fbd315e9b07dd8aafffbf65ee5d61052e5b0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf8cb3f7_2659c2fd",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 273,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-12-01T07:21:41Z",
+      "side": 1,
+      "message": "Not sure about this bitrate, never heard of 156kbit for audio.",
+      "revId": "b36fbd315e9b07dd8aafffbf65ee5d61052e5b0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf8cb3f7_465e46e7",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 373,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-12-01T07:21:41Z",
+      "side": 1,
+      "message": "Not sure about this bitrate, never heard of 156kbit for audio.",
+      "revId": "b36fbd315e9b07dd8aafffbf65ee5d61052e5b0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf8cb3f7_e672fa7c",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 414,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-12-01T07:21:41Z",
+      "side": 1,
+      "message": "Not sure about this bitrate, never heard of 156kbit for audio.",
+      "revId": "b36fbd315e9b07dd8aafffbf65ee5d61052e5b0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "bf8cb3f7_06703e72",
+        "filename": "configs/media_profiles.xml",
+        "patchSetId": 2
+      },
+      "lineNbr": 498,
+      "author": {
+        "id": 10621
+      },
+      "writtenOn": "2015-12-01T07:21:41Z",
+      "side": 1,
+      "message": "Not sure about this bitrate, never heard of 156kbit for audio.",
+      "revId": "b36fbd315e9b07dd8aafffbf65ee5d61052e5b0e",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
